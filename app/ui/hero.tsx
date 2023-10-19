@@ -8,7 +8,7 @@ export const HeroContent = () => {
             <h3 className='text-5xl font-semibold py-10'>Try Our AI Artwork Generator for Free</h3>
             <p className='font-light'>From logos and characters to digital artwork and photos,
                 just describe the image you want and our AI image generating
-                tool will create the perfect graphic for your project. It's FREE to try.
+                tool will create the perfect graphic for your project. It&apos;s FREE to try.
             </p>
             <p>Try aiGen for free by entering a prompt below</p>
             <HeroButton />

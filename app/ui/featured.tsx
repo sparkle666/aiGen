@@ -17,7 +17,7 @@ const HowItWorks = () => {
                 No matter your level of experience or expertise,
                 you can easily create amazing images with our tool.
                 Simply enter your prompt and let our AI do the
-                rest - it's as easy as that!
+                rest - it&apos;s as easy as that!
             </p>
         </div>
     )

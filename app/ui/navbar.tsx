@@ -1,12 +1,13 @@
 import React from 'react'
 import Link from "next/link";
+import Image from "next/image"
 
 const Navbar = () => {
     return (
 
         <nav className="flex justify-between items-center bg-white p-4 rounded-md">
             <Link href="/" className="flex items-center">
-                <img src="/next.svg" alt="Logo" className="w-16 h-16" />
+                <Image src="/next.svg" alt="Logo" className="w-16 h-16" width={50} height={50}/>
                 <span className="ml-4 text-lg font-bold">aiGen</span>
             </Link>
             <ul className="hidden lg:flex flex-row items-center gap-4">
